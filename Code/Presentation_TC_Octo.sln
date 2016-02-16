@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexDeployWebApp", "Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelfService", "TopShelfService\TopShelfService.csproj", "{6E70139A-E07C-41AF-8E82-6316EC1DBD20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTests", "RandomTests\RandomTests.csproj", "{FDC58A33-5597-4990-BFA4-A245414179CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6E70139A-E07C-41AF-8E82-6316EC1DBD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E70139A-E07C-41AF-8E82-6316EC1DBD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E70139A-E07C-41AF-8E82-6316EC1DBD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC58A33-5597-4990-BFA4-A245414179CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC58A33-5597-4990-BFA4-A245414179CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC58A33-5597-4990-BFA4-A245414179CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC58A33-5597-4990-BFA4-A245414179CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
